@@ -1,10 +1,10 @@
-[1 1 1 1 1 1 1 1 1 1] https://kpfu.ru/eng
-[1 1 1 1 1 1 1 0 0 0] https://kpfu.ru/es
-[1 1 1 1 1 1 1 0 0 0] https://kpfu.ru/fr
-[1 1 1 1 1 1 1 0 0 0] https://kpfu.ru/tr
-[1 1 1 1 1 1 1 0 0 0] https://kpfu.ru/ar
-[1 1 1 1 1 1 1 0 0 0] https://kpfu.ru/cn
-[1 1 1 1 1 1 1 0 0 0] https://kpfu.ru/fa
-[0 0 0 0 0 0 0 1 1 1] https://kpfu.ru/sveden/internet-priemnaya
-[0 0 0 0 0 0 0 1 1 1] https://kpfu.ru/sveden/karta-vseh-obektov
-[0 0 0 0 0 0 0 1 1 1] https://kpfu.ru/sveden
+0, 1, 1, 1, 1, 1, 1, 1, 1, 1
+1, 0, 1, 1, 1, 1, 1, 0, 0, 0
+1, 1, 0, 1, 1, 1, 1, 0, 0, 0
+1, 1, 1, 0, 1, 1, 1, 0, 0, 0
+1, 1, 1, 1, 0, 1, 1, 0, 0, 0
+1, 1, 1, 1, 1, 0, 1, 0, 0, 0
+1, 1, 1, 1, 1, 1, 0, 0, 0, 0
+0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+0, 0, 0, 0, 0, 0, 0, 1, 0, 1
+0, 0, 0, 0, 0, 0, 0, 1, 1, 0

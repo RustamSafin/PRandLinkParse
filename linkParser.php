@@ -34,7 +34,7 @@ $flag = "".$argv[3];
 //$matrix = buildAdjacencyMatrix($arrayOfHrefs);
 $pr = new PageRank();
 //var_dump($pr->get());
-//$pr->writeM()
+$pr->writeM();
 //for ($i=0;$i<10;$i++) {
     $pr->getPR();
 //var_dump(intval("0"));
